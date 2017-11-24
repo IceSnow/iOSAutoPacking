@@ -27,3 +27,7 @@ iOS 自动打包工具集合
 * 快捷启动脚本`Auto.applescript`[正在维护中]
 
 * 编译工程脚本 `autoBuild.sh` 
+
+# 注意事项
+
+> 本编译脚本未支持`CocoaPods`结构工程
