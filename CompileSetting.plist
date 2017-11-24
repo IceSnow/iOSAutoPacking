@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>project</key>
+	<string>xxxx.xcodeproj</string>
+	<key>schemeName</key>
+	<string>xxxx</string>
+	<key>exportOptionsPlistPath</key>
+	<string>/Users/liu/Desktop/Project/xxxx/UnpackFiles/ExportOptions/xxxx.plist</string>
+	<key>exportDir</key>
+	<string>/Users/liu/Desktop/Project/xxxx/Ipa/</string>
+	<key>projectRootDir</key>
+	<string>/Users/liu/Documents/xxxx/branches/xxxx/</string>
+</dict>
+</plist>
